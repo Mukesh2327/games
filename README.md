@@ -1,2 +1,4 @@
-# games
-Basic game using pygame
+# GAMES
+Basic game using pygame-> which is easy and fun!!!
+
+:)
